@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="Mertekegyseg/Mertekegyseg.csproj" />
-  <Project Path="WebaruhazTermek/WebaruhazTermek.csproj" />
+  <Project Path="../../../../../../Desktop/info/Kalai óra/Alapok gyakorlás/FelhasznaloFiok/FelhasznaloFiok.csproj" Id="f3c7a51d-e627-431e-b229-bd953df115b6" />
+  <Project Path="../../../../../../Desktop/info/Kalai óra/Alapok gyakorlás/Mertekegyseg/Mertekegyseg.csproj" />
+  <Project Path="../../../../../../Desktop/info/Kalai óra/Alapok gyakorlás/WebaruhazTermek/WebaruhazTermek.csproj" />
 </Solution>
